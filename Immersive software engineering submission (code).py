@@ -51,9 +51,9 @@ Total_Energy=[]
 # the track. We calvulate the initial speed required to traverse the track. As we turn on friction
 # and track. We modify h, to get the initial required speed
 
-h=100
+h=100 #heigh
 R=50.0 #radius of the sphere
-g=9.8
+g=9.8 #Gravity
 mass=1070
 dt=0.0001 #time step for the Euler iteration
 v=np.sqrt(2*g*h)
