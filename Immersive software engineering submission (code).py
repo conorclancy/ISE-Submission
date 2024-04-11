@@ -51,7 +51,7 @@ Total_Energy=[]
 # the track. We calvulate the initial speed required to traverse the track. As we turn on friction
 # and track. We modify h, to get the initial required speed
 
-h=100 #heigh
+h=100 #height, when plotting friction graphs we must change the height to 150 otherwise the code breaks down
 R=50.0 #radius of the sphere
 g=9.8 #Gravity
 mass=1070
@@ -59,7 +59,7 @@ dt=0.0001 #time step for the Euler iteration
 v=np.sqrt(2*g*h)
 
 
-mu= 0.0
+mu= 0.0 #friction coefficient, for all friction graps we must change this to 0.1
 C=0.0
 rho=1.25
 A=np.pi*(1)**2 #Cross sectional area of a ring, of diameter 1m   
