@@ -1,6 +1,9 @@
 Name: Conor Clancy
+
 Email address: Conorclancy05@gmail.com
+
 CAO number: 24350191
+
 Phone Number: 00353874111812
  
  
