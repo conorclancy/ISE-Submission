@@ -12,7 +12,7 @@ For my Immersive software engineering submission, I wanted to see how code could
 
 I will be investigating the effects that different forces have on the movement of a rollercoaster, primarily the force of friction and the and how friction affects the forces that the passengers experience.
 
-I thoroughly enjoyed the process of doing this project, it gave me an idea of what it was like to code and I leart how to resolve certain errors to do with coding such as a loop in my code and how to use the matplotlib feature with python. I'm proud of the python code I have completed as prior to this prject I had no codign knowledge and the maths that I completed throughout this project. 
+I thoroughly enjoyed the process of doing this project, it gave me an idea of what it was like to code and I leart how to resolve certain errors to do with coding such as a loop in my code and how to use the matplotlib feature with python. I'm proud of the python code I have completed as prior to this prject I had no coding knowledge and the maths that I completed throughout this project. 
 
 
 
