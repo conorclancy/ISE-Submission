@@ -17,7 +17,11 @@ I thoroughly enjoyed doing this project, I saw this as an opportunity to learn P
 
 
 References:
+
 https://www.researchgate.net/publication/362133320_The_Physics_of_Roller_Coasters_from_a_Designer%27s_Perspective 
+
 https://www.coaster101.com/2010/11/16/coasters101-coaster-physics-calculations/#:~:text=Each%20car%20holds%20two%20riders,kg%20(about%2010%2C000%20pounds.
+
 Studyclix 
+
 Murphys Applied Mathematics 
