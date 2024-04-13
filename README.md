@@ -8,11 +8,11 @@ Phone Number: 00353874111812
  
  
 Introduction: 
-For my Immersive Software Engineering submission, I wanted to explore how code can be used to verify mathematical results in real world problems. I discussed my interest in this course with my physics teacher Barry Ryan, we explored this year’s Applied Mathematics portfolio submission of the rollercoaster. Applied Mathematics is not a subject I selected for Leaving Certificate, I thought it would be an interesting and challenging topic.  
+For my Immersive Software Engineering submission, I wanted to explore how code can be used to verify mathematical results in real world problems. I discussed my interest in this course with my physics teacher Dr. Barry Ryan, we explored this year’s Applied Mathematics portfolio submission of the rollercoaster. Applied Mathematics is not a subject I selected for Leaving Certificate, I thought it would be an interesting and challenging topic.  
 
-I will investigate the effects that different forces have on the movement of a rollercoaster, primarily the force of friction and how the force of friction affects the forces that the passengers experience.
+I investigated the effects that different forces have on the movement of a rollercoaster, primarily the force of friction and how the force of friction affects the forces that the passengers experience.
 
-I thoroughly enjoyed doing this project, I saw this as an opportunity to learn Python. I also learned to resolve coding errors such as a loop in my code and how to use the matplotlib function with python. I am proud of the code I complied, as prior to this project I had no Python knowledge or the Applied Maths that were the foundation of this project. 
+I thoroughly enjoyed undertaking this project, I took opportunity to learn Python. I also learned to resolve coding errors such as a loop in my code and how to use the matplotlib function with python. I am proud of the code I complied, as prior to this project I had no Python knowledge or the Applied Maths that were the foundation of this project. 
 
 
 
