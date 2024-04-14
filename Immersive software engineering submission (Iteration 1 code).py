@@ -2,17 +2,17 @@
 """
 Created on Sat Feb 17 17:34:22 2024
 
-@author conor 
+@author Conor Clancy for submission for Immersive Software Engineering  
 """
 
 import numpy as np
 import matplotlib.pyplot as plt 
 
 #Initial conditions and constants
-theta =0.00000000000000000001 #Initial angle with respect to the vertical radius of the circle
-v=0.0 #top of sphere
-R=20 #Radius of the sphere
-g=9.8 #Gravity
+theta =0.00000000000000000001 #Initial angle with respect to the vertical radius of the circle otherwise particle would not move (Radians)
+v=0.0 #top of sphere m/s
+R=20 #Radius of the sphere (m)
+g=9.8 #Gravitational acceleration m/s2
 m=1
 dt=.0001 #time step for euler iteration
 
