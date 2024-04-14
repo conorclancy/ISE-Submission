@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 
 
 
-#Function to calculate derivatives including froction and drag
+#Function to calculate derivatives including friction and drag
 def derivatives(theta, v):
     a_tangential=-g*np.sin(theta)
     F_Friction=-mu*(mass*g*np.cos(theta)*np.sign(v)+mass*v**2/R)
